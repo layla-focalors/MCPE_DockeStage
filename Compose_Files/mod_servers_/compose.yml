@@ -1,1 +1,19 @@
-version : '3'
+version: '3'
+
+services:
+  mcpe_server:
+    image: ubuntu:latest
+    container_name: mcpe_server
+    volumes:
+      - ./data_save:/data
+    ports:
+      - "25565:25565"
+    command: >
+      /bin/sh -c "
+      apt-get update &&
+      apt-get install -y wget git openjdk-11-jdk screen &&
+      git clone https://github.com/layla-focalors/MCPE_DockeStage.git /MCPE_DockeStage &&
+      cd /MCPE_DockeStage/mod_configs &&
+      screen -S mcpe_server -dm java -Xmx4096M -Xms2048M -jar server.jar nogui &&
+      tail -f /dev/null
+      "
