@@ -1,0 +1,4 @@
+block_id=lucky_block_shade
+sword_id=shade_lucky_sword
+bow_id=shade_lucky_bow
+potion_id=shade_lucky_potion

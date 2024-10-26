@@ -1,0 +1,12 @@
+﻿{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "lootplusplus:blocks/gem_craftingtable_front",
+        "down": "blocks/glass",
+        "up": "lootplusplus:blocks/gem_craftingtable_top",
+        "north": "lootplusplus:blocks/gem_craftingtable_front",
+        "east": "lootplusplus:blocks/gem_craftingtable_side",
+        "south": "lootplusplus:blocks/gem_craftingtable_side",
+        "west": "lootplusplus:blocks/gem_craftingtable_front"
+    }
+}

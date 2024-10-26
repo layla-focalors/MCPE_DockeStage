@@ -1,0 +1,76 @@
+shade_apple_____§aShade Apple_____false_____60_____30_____false_____true_____10_____10-3000-10-10.0-normal_____5-3000-10-10.0-normal_____11-3000-10-10.0-normal_____potioncore:flight-3000-10-10.0-normal_____potioncore:reach-3000-10-10.0-normal_____14-3000-10-10.0-normal
+medkit_____Medkit_____false_____1_____1.0_____true_____true_____100_____6-10-5-1.0-normal
+selfboost_magic_purity_____Selfboost Magic Purity_____false_____1_____1.0_____true_____true_____1_____potioncore:purity-1000-5-1.0-normal
+selfboost_magic_flight_____Selfboost Magic Flight_____false_____1_____1.0_____true_____true_____1_____potioncore:flight-1000-5-1.0-normal
+selfboost_magic_cure_____Selfboost Magic Cure_____false_____1_____1.0_____true_____true_____1_____potioncore:cure-1000-5-1.0-normal
+selfboost_magic_burst_____Selfboost Magic Burst_____false_____1_____1.0_____true_____true_____1_____potioncore:burst-1000-50-1.0-normal
+selfboost_magic_heal_____Selfboost Magic Heal_____false_____1_____1.0_____true_____true_____1_____6-10-50-1.0-normal
+selfboost_magic_infinitereach_____Selfboost Magic Infinite reach_____false_____1_____1.0_____true_____true_____1_____potioncore:reach-1000-255-255.0-normal
+speedy_luckymagic_____Speedy Lucky Magic_____false_____1_____1.0_____true_____true_____1_____1-6000-5-1.0-normal_____3-6000-5-10.0-normal_____8-6000-5-10.0-normal_____14-6000-5-10.0-normal_____16-6000-5-10.0-normal
+op_luckymagic_____Op Lucky Magic_____false_____1_____1.0_____true_____true_____1_____1-6000-5-1.0-normal_____3-6000-5-10.0-normal_____5-6000-5-10.0-normal_____10-3000-10-10.0-normal_____6-6000-5-10.0-normal_____8-6000-5-10.0-normal_____10-6000-5-10.0-normal_____11-6000-5-10.0-normal_____12-6000-5-10.0-normal_____13-6000-5-10.0-normal_____14-6000-5-10.0-normal_____16-6000-5-10.0-normal_____21-6000-5-10.0-normal_____22-6000-5-10.0-normal_____23-6000-5-10.0-normal
+healing_luckymagic_____Healing Lucky Magic_____false_____1_____1.0_____true_____true_____1_____6-6000-5-1.0-normal_____10-6000-5-10.0-normal_____21-6000-5-10.0-normal_____22-6000-5-10.0-normal_____23-6000-5-10.0-normal
+strength_luckymagic_____Strength Lucky Magic_____false_____1_____1.0_____true_____true_____1_____5-6000-5-1.0-normal_____11-6000-5-10.0-normal_____12-6000-5-10.0-normal_____13-6000-5-10.0-normal
+selfboost_magic_revival_____Selfboost Magic Revival_____false_____1_____1.0_____true_____true_____1_____potioncore:revival-3000-50-1.0-normal
+selfboost_magic_noknockback_____Selfboost Magic no Knockback_____false_____1_____1.0_____true_____true_____1_____potioncore:solidcore-3000-50-1.0-normal
+selfboost_magic_glide_____Selfboost Magic Glide_____false_____1_____1.0_____true_____true_____1_____potioncore:slowfall-3000-1-1.0-normal
+selfboost_magic_damagereflection_____Selfboost Magic Damage Reflection_____false_____1_____1.0_____true_____true_____1_____potioncore:recoil-3000-5-1.0-normal
+selfboost_magic_haste_____Selfboost Magic Haste_____false_____1_____1.0_____true_____true_____1_____minecraft:haste-3000-10-1.0-normal
+selfboost_magic_speed_____Selfboost Magic Speed_____false_____1_____1.0_____true_____true_____1_____minecraft:speed-3000-3-1.0-normal
+selfboost_magic_strength_____Selfboost Magic Strength_____false_____1_____1.0_____true_____true_____1_____minecraft:strength-3000-10-1.0-normal
+selfboost_magic_nightvision_____Selfboost Magic Nightvision_____false_____1_____1.0_____true_____true_____1_____minecraft:night_vision-3000-1-1.0-normal
+alpha_apple_____Alpha Apple_____false_____6_____3_____false_____true_____32_____10-3000-1-1.0-normal_____5-3000-1-1.0-normal
+beta_apple_____Beta Apple_____false_____6_____3_____false_____true_____32_____10-3000-1-1.0-normal_____16-3000-1-1.0-normal
+gamma_apple_____Gamma Apple_____false_____6_____3_____false_____true_____32_____1-3000-1-1.0-normal_____8-3000-1-1.0-normal
+delta_apple_____Delta Apple_____false_____6_____3_____false_____true_____32_____1-3000-1-1.0-normal_____5-3000-1-1.0-normal
+epsilon_apple_____Epsilon Apple_____false_____6_____3_____false_____true_____32_____3-3000-1-1.0-normal_____12-3000-1-1.0-normal
+zeta_apple_____Zeta Apple_____false_____6_____3_____false_____true_____32_____12-3000-1-1.0-normal_____23-3000-1-1.0-normal
+eta_apple_____Eta Apple_____false_____6_____3_____false_____true_____32_____1-3000-1-1.0-normal_____3-3000-1-1.0-normal
+theta_apple_____Theta Apple_____false_____6_____3_____false_____true_____32_____11-3000-1-1.0-normal_____13-3000-1-1.0-normal
+iota_apple_____Iota Apple_____false_____6_____3_____false_____true_____32_____10-3000-1-1.0-normal_____5-3000-1-1.0-normal
+kappa_apple_____Kappa Apple_____false_____6_____3_____false_____true_____32_____13-3000-1-1.0-normal_____3-3000-1-1.0-normal
+lambda_apple_____Lambda Apple_____false_____6_____3_____false_____true_____32_____14-3000-1-1.0-normal_____11-3000-1-1.0-normal
+my_apple_____My Apple_____false_____6_____3_____false_____true_____32_____11-3000-1-1.0-normal_____5-3000-1-1.0-normal
+ny_apple_____Ny Apple_____false_____6_____3_____false_____true_____32_____11-3000-1-1.0-normal_____1-3000-1-1.0-normal
+xi_apple_____Xi Apple_____false_____6_____3_____false_____true_____32_____3-3000-1-1.0-normal_____8-3000-1-1.0-normal
+omikron_apple_____Omikron Apple_____false_____6_____3_____false_____true_____32_____10-3000-1-1.0-normal_____11-3000-1-1.0-normal
+pi_apple_____Pi Apple_____false_____6_____3_____false_____true_____32_____16-3000-1-1.0-normal_____14-3000-1-1.0-normal
+rho_apple_____Rho Apple_____false_____6_____3_____false_____true_____32_____11-3000-1-1.0-normal_____12-3000-1-1.0-normal
+sigma_apple_____Sigma Apple_____false_____6_____3_____false_____true_____32_____1-3000-1-1.0-normal_____13-3000-1-1.0-normal
+tau_apple_____Tau Apple_____false_____6_____3_____false_____true_____32_____8-3000-1-1.0-normal_____23-3000-1-1.0-normal
+ypsilon_apple_____Ypsilon Apple_____false_____6_____3_____false_____true_____32_____16-3000-1-1.0-normal_____1-3000-1-1.0-normal
+phi_apple_____Phi Apple_____false_____6_____3_____false_____true_____32_____21-3000-1-1.0-normal_____11-3000-1-1.0-normal
+chi_apple_____Chi Apple_____false_____6_____3_____false_____true_____32_____14-3000-1-1.0-normal_____potioncore:flight-3000-1-1.0-normal
+psi_apple_____Psi Apple_____false_____6_____3_____false_____true_____32_____1-3000-1-1.0-normal_____22-3000-1-1.0-normal
+omega_apple_____Omega Apple_____false_____6_____3_____false_____true_____32_____13-3000-1-1.0-normal_____11-3000-1-1.0-normal
+
+op_shade_apple_____§bShade Apple_____true_____6_____3_____false_____true_____32_____10-6000-10-10.0-normal_____5-6000-10-10.0-normal_____11-6000-10-10.0-normal_____1-6000-10-10.0-normal_____3-6000-10-10.0-normal_____8-6000-2-2.0-normal_____22-6000-10-10.0-normal_____6-6000-10-10.0-normal_____12-6000-10-10.0-normal_____13-6000-10-10.0-normal_____14-6000-10-10.0-normal_____16-6000-10-10.0-normal_____21-6000-10-10.0-normal_____23-6000-10-10.0-normal_____potioncore:flight-6000-10-10.0-normal_____potioncore:reach-6000-100-100.0-normal_____potioncore:purity-6000-10-10.0-normal_____potioncore:recoil-6000-10-10.0-normal
+op_alpha_apple_____§aAlpha Apple_____true_____6_____3_____false_____true_____32_____10-6000-10-10.0-normal_____5-6000-10-10.0-normal
+op_beta_apple_____§aBeta Apple_____true_____6_____3_____false_____true_____32_____10-6000-10-10.0-normal_____16-6000-10-10.0-normal
+op_gamma_apple_____§aGamma Apple_____true_____6_____3_____false_____true_____32_____1-6000-10-10.0-normal_____8-6000-10-10.0-normal
+op_delta_apple_____§aDelta Apple_____true_____6_____3_____false_____true_____32_____1-6000-10-10.0-normal_____5-6000-10-10.0-normal
+op_epsilon_apple_____§aEpsilon Apple_____true_____6_____3_____false_____true_____32_____3-6000-10-10.0-normal_____12-6000-10-10.0-normal
+op_zeta_apple_____§aZeta Apple_____true_____6_____3_____false_____true_____32_____12-6000-10-10.0-normal_____23-6000-10-10.0-normal
+op_eta_apple_____§aEta Apple_____true_____6_____3_____false_____true_____32_____1-6000-10-10.0-normal_____3-6000-10-10.0-normal
+op_theta_apple_____§aTheta Apple_____true_____6_____3_____false_____true_____32_____11-6000-10-10.0-normal_____13-6000-10-10.0-normal
+op_iota_apple_____§aIota Apple_____true_____6_____3_____false_____true_____32_____10-6000-10-10.0-normal_____5-6000-10-10.0-normal
+op_kappa_apple_____§aKappa Apple_____true_____6_____3_____false_____true_____32_____13-6000-10-10.0-normal_____3-6000-10-10.0-normal
+op_lambda_apple_____§aLambda Apple_____true_____6_____3_____false_____true_____32_____14-6000-10-10.0-normal_____11-6000-10-10.0-normal
+op_my_apple_____§aMy Apple_____true_____6_____3_____false_____true_____32_____11-6000-10-10.0-normal_____5-6000-10-10.0-normal
+op_ny_apple_____§aNy Apple_____true_____6_____3_____false_____true_____32_____11-6000-1-1.0-normal_____1-6000-10-10.0-normal
+op_xi_apple_____§aXi Apple_____true_____6_____3_____false_____true_____32_____3-6000-10-10.0-normal_____8-6000-10-10.0-normal
+op_omikron_apple_____§aOmikron Apple_____true_____6_____3_____false_____true_____32_____10-6000-10-10.0-normal_____11-6000-10-10.0-normal
+op_pi_apple_____§aPi Apple_____true_____6_____3_____false_____true_____32_____16-6000-10-10.0-normal_____14-6000-10-10.0-normal
+op_rho_apple_____§aRho Apple_____true_____6_____3_____false_____true_____32_____11-6000-10-10.0-normal_____12-6000-10-10.0-normal
+op_sigma_apple_____§aSigma Apple_____true_____6_____3_____false_____true_____32_____1-6000-10-10.0-normal_____13-6000-10-10.0-normal
+op_tau_apple_____§aTau Apple_____true_____6_____3_____false_____true_____32_____8-6000-10-10.0-normal_____23-6000-10-10.0-normal
+op_ypsilon_apple_____§aYpsilon Apple_____true_____6_____3_____false_____true_____32_____16-6000-10-10.0-normal_____1-6000-10-10.0-normal
+op_phi_apple_____§aPhi Apple_____true_____6_____3_____false_____true_____32_____21-6000-10-10.0-normal_____11-6000-10-10.0-normal
+op_chi_apple_____§aChi Apple_____true_____6_____3_____false_____true_____32_____14-6000-10-10.0-normal_____potioncore:flight-6000-10-10.0-normal
+op_psi_apple_____§aPsi Apple_____true_____6_____3_____false_____true_____32_____1-6000-10-10.0-normal_____22-6000-10-10.0-normal
+op_omega_apple_____§aOmega Apple_____true_____6_____3_____false_____true_____32_____13-6000-10-10.0-normal_____11-6000-10-10.0-normal
+
+rainbow_orb_____Rainbow Orb_____true_____6_____3_____false_____true_____32_____potioncore:revival-6000-10-10.0-normal
+
+
+
+

@@ -1,0 +1,18 @@
+﻿{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "lootplusplus:items/curse_of_drowning"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 0, 90, -35 ],
+            "translation": [ 0, 3, -14.5 ],
+            "scale": [ 3, 3, 2 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, -135, 25 ],
+            "translation": [ 0, 6, 2 ],
+            "scale": [ 4, 4, 3 ]
+        }
+    }
+}

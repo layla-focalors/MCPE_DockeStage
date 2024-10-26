@@ -1,0 +1,4485 @@
+## Foods and Drinks (Note it's still a bit WIP)                ##
+#################################################################
+## In the form:                                                ##
+## <effect id>                                                 ##
+##    - Metadata: <item metadata>                              ##
+##    - Food or Drink? <Food or Drink (or Unknown)>            ##
+##    - Food Amount: <Number of food points restored>          ##
+##    - Saturation Amount: <Number of saturation points given> ##
+################################################################
+lootplusplus:Base_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Dragon_god_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Fish_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Fly_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Jump_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Jump_god_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Oreo_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Rainbow_god_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Rocket_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Speed_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Speed_god_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Staerke_god_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Strongness_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Unicorn
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:Unicorn_god_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:alpha_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:amk.de_enchanted_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:astral.fairy
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+lootplusplus:astral.little_heart
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+lootplusplus:astral.star_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 20.0
+
+
+lootplusplus:bacon.kj
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:benx.enchanted_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:benx.zum.futtern._apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:benx_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:beta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:butterdfg
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:candy_Chaos_Melone
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:candy_schnitzel
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:candy_slimyfood
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:candy_slimyragefood
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 60
+	- Saturation Amount: 30.0
+
+
+lootplusplus:carrot_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:chi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:chocolate
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.5
+
+
+lootplusplus:crystal_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:delta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:einhorn.d_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:elinasop.gold_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:emerald_block.bread_slice
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:emerald_block.candy
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:emerald_block.candy_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.3
+
+
+lootplusplus:emerald_block.candy_cane
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+lootplusplus:emerald_block.christmas_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+lootplusplus:emerald_block.e_popsicle_black
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_blue
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_brown
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_cyan
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_gray
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_green
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_light_blue
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_light_gray
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_lime
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_magenta
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_orange
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_pink
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_purple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_red
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_white
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.e_popsicle_yellow
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:emerald_block.emerald_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.emerald_e_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:emerald_block.giant_steak
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 100.0
+
+
+lootplusplus:emerald_block.lucky_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 1.0
+
+
+lootplusplus:emerald_block.popsicle_black
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_blue
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_brown
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_cyan
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_gray
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_green
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_light_blue
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_light_gray
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_lime
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_magenta
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_orange
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_pink
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_purple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_red
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_white
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.popsicle_yellow
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:emerald_block.toast
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 3.5
+
+
+lootplusplus:ender.ender_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:ender.ender_e_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:ender.rand_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.6
+
+
+lootplusplus:ender.spawn_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.6
+
+
+lootplusplus:ender.surface_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.6
+
+
+lootplusplus:engel.food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:epsilon_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:eta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:firefishwerwe
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:galaxy.enchanted_galaxy_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 4.0
+
+
+lootplusplus:galaxy.galaxy_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:galaxy.galaxy_berry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:gamma_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:glite.glite_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:healing_luckymagic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:instaheal_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:iota_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:kappa_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:lambda_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:medkit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:my_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:ny_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:oect.cocacola
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:oect.food_Its_Fabo
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:oect.food_lisacraft
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:oect.food_lwaltens
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:oect.food_xX_MeLeG_Xx
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:oect.frappelatte
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:oect.pizza_green
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:oect.pizza_light_blue
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:oect.pizza_nuclear
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:oect.pizza_nuclear_plus
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:oect.pizza_pink
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:oect.pizza_red
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:oect.pizza_yellow
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:omega_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:omikron_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_alpha_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_beta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_chi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_delta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_epsilon_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_eta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_gamma_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_iota_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_kappa_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_lambda_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_luckymagic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:op_my_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_ny_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_omega_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_omikron_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_phi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_pi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_psi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_rho_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_shade_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_sigma_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_tau_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_theta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_xi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_ypsilon_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:op_zeta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:phi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:pi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:pink_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:pink_e_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:pizza
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.buttermilk_waffle
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 1.9
+
+
+lootplusplus:plural.chocolate_key
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 1.9
+
+
+lootplusplus:plural.chocolate_waffle
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 12
+	- Saturation Amount: 1.9
+
+
+lootplusplus:plural.dark_chocolate_key
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 1.9
+
+
+lootplusplus:plural.leaf0
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf1
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf10
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf11
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf12
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf13
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf14
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf15
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf2
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf3
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf4
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf5
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf6
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf7
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf8
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.leaf9
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.op_plural_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:plural.op_plural_carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 12
+	- Saturation Amount: 1.5
+
+
+lootplusplus:plural.op_plural_melon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 1.0
+
+
+lootplusplus:plural.pie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:plural.pizza
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.plural_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.plural_berry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:plural.plural_carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 12
+	- Saturation Amount: 1.5
+
+
+lootplusplus:plural.plural_cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:plural.plural_melon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 1.0
+
+
+lootplusplus:plural.waffle
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 12
+	- Saturation Amount: 1.9
+
+
+lootplusplus:plural.white_chocolate_key
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 1.9
+
+
+lootplusplus:plural_amazing_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:plural_chaos_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:plural_dream_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:popcorn
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:protent_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:psi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:rainbow.hot_pepper
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.0
+
+
+lootplusplus:rainbow.pink_pufferfish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.0
+
+
+lootplusplus:rainbow.taco
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 1.0
+
+
+lootplusplus:rainbow_orb
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:red_white_candy
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+lootplusplus:reflice_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:rho_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:selfboost_magic_burst
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_cure
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_damagereflection
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_flight
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_glide
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_haste
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_heal
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_infinitereach
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_nightvision
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_noknockback
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_purity
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_revival
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_speed
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:selfboost_magic_strength
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:shade_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 60
+	- Saturation Amount: 30.0
+
+
+lootplusplus:sigma_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:snack.gut
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:speedy_luckymagic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:spiral.black_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.blue_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.brown_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.cyan_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.gingerbread_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.4
+
+
+lootplusplus:spiral.green_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.grey_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.light_blue_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.light_grey_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.lime_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.magenta_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.orange_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.pink_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.purple_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.red_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.spiral_lollipop_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+lootplusplus:spiral.white_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:spiral.yellow_candy_item
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:strength_luckymagic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Astral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+lootplusplus:tab_Astral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+lootplusplus:tab_Astral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 20.0
+
+
+lootplusplus:tab_Candys
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 14.4
+
+
+lootplusplus:tab_Candys
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 60
+	- Saturation Amount: 30.0
+
+
+lootplusplus:tab_Candys
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Candys
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_DoctorBenx_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 14
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 5.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 3.5
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.3
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+lootplusplus:tab_Lucky_Block_Emerald
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 100.0
+
+
+lootplusplus:tab_Lucky_Block_Textmonster
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.5
+
+
+lootplusplus:tab_Lucky_Block_Textmonster
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Lucky_Block_Textmonster
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.2
+
+
+lootplusplus:tab_Lucky_Block_Textmonster
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 1.5
+
+
+lootplusplus:tab_Lucky_Block_Textmonster
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 7
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tab_Rainbow_Lucky_Blocks_Items
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Rainbow_Lucky_Blocks_Items
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Rainbow_Lucky_Blocks_Items
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 60
+	- Saturation Amount: 30.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Food
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Items
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Special_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Special_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Special_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Shade_Lucky_Blocks_Special_Magic
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 1.0
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.4
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Spiral_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.1
+
+
+lootplusplus:tab_Supernatural_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_Supernatural_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_Supernatural_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tab_Supernatural_Lucky_Blocks
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+lootplusplus:tau_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:theta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:troll_poop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 2.2
+
+
+lootplusplus:tundra_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:vergameltes.geiles
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 20
+	- Saturation Amount: 2.2
+
+
+lootplusplus:xi_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:ypsilon_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+lootplusplus:zeta_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 3.0
+
+
+minecraft:apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.3
+
+
+minecraft:baked_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:bread
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.6
+
+
+minecraft:chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:cooked_beef
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_chicken
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_fish
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:cooked_mutton
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+minecraft:cooked_rabbit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 5
+	- Saturation Amount: 0.6
+
+
+minecraft:cookie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 2
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:fish
+	- Megadata: 3
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.1
+
+
+minecraft:golden_apple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+minecraft:golden_apple
+	- Megadata: 1
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 1.2
+
+
+minecraft:golden_carrot
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 1.2
+
+
+minecraft:melon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:milk_bucket
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:mushroom_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+minecraft:mutton
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:poisonous_potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.3
+
+
+minecraft:porkchop
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:potato
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.3
+
+
+minecraft:potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8193
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8225
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8257
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16385
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16417
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16449
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8194
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8226
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8258
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16386
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16418
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16450
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8227
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8259
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16419
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16451
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8196
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8228
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8260
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16388
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16420
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16452
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8261
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8229
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16453
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16421
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8230
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8262
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16422
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16454
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8232
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8264
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16424
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16456
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8201
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8233
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8265
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16393
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16425
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16457
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8234
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8266
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16426
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16458
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8203
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8235
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8267
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16395
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16427
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16459
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8268
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8236
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16460
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16428
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8237
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8269
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16429
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16461
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8238
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 8270
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16430
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:potion
+	- Megadata: 16462
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+minecraft:pumpkin_pie
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.3
+
+
+minecraft:rabbit
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 3
+	- Saturation Amount: 0.3
+
+
+minecraft:rabbit_stew
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 0.6
+
+
+minecraft:rotten_flesh
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 4
+	- Saturation Amount: 0.1
+
+
+minecraft:spider_eye
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.8
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+potioncore:custom_potion
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+

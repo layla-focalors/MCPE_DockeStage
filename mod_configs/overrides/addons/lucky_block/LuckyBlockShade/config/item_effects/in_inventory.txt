@@ -1,0 +1,13 @@
+lootplusplus:pink_orb_____-1_____{}_____10_____100_____3_____9.0_____none
+lootplusplus:green_orb_____-1_____{}_____8_____2_____1_____1.0_____none
+lootplusplus:white_orb_____-1_____{}_____16_____2_____1_____1.0_____none
+lootplusplus:red_orb_____-1_____{}_____5_____2_____0_____1.0_____none
+lootplusplus:black_orb_____-1_____{}_____11_____2_____2_____2.0_____none
+lootplusplus:blue_orb_____-1_____{}_____1_____2_____0_____1.0_____none
+lootplusplus:shade_heart_____-1_____{}_____21_____10_____5_____5.0_____none
+lootplusplus:shade_heart_____-1_____{}_____23_____10_____5_____5.0_____none
+lootplusplus:force_field_____-1_____{}_____potioncore:burst_____3_____3_____3.0_____none
+lootplusplus:rainbow_orb_____-1_____{}_____potioncore:flight_____10_____5_____5.0_____none
+lootplusplus:rainbow_orb_____-1_____{}_____10_____100_____5_____5.0_____none
+lootplusplus:rainbow_orb_____-1_____{}_____21_____10_____5_____5.0_____none
+lootplusplus:rainbow_orb_____-1_____{}_____23_____10_____5_____5.0_____none

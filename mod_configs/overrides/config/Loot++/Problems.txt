@@ -1,0 +1,647 @@
+The following problems were encountered while loading the config files:
+block_additions.cfg 'crafting_tables' #3: Couldn't find a material for name: stone
+
+item_additions.cfg 'foods' #4: Couldn't find potion effect 'potioncore:wither'
+
+item_additions.cfg 'foods' #45: Entry had wrong number of parts (better check those underscores): '5-6000-2-6.0-normal____22-6000-2-32.0-normal'.
+
+item_additions.cfg 'foods' #46: Entry had wrong number of parts (better check those underscores): '6-6000-2-10.0-normal____8-6000-2-2.0-normal____10-6000-2-3.0-normal____11-6000-4-3.0-normal____12-6000-2-6.0-normal____13-6000-5-9.0-normal____14-6000-5-10.0-normal____16-6000-2-3.0-normal____21-6000-8-19.0-mormal____22-6000-4-9.0-normal____23-6000-23-30.0-normal'.
+
+item_additions.cfg 'foods' #47: Entry had wrong number of parts (better check those underscores): '6-6000-3-1.0-normal____10-6000-2-2.0-normal____11-6000-2-3.0-normal____21-6000-4-2.0-normal____22-6000-3-3.0-normal'.
+
+item_additions.cfg 'foods' #48: Entry had wrong number of parts (better check those underscores): '6-6000-3-1.0-normal____10-6000-2-2.0-normal____11-6000-2-3.0-normal____21-6000-4-2.0-normal____22-6000-3-3.0-normal'.
+
+item_additions.cfg 'foods' #70: Couldn't find potion effect 'minecraft:minecraft:resistance'
+
+item_additions.cfg 'foods' #74: Entry had wrong number of parts (better check those underscores): 'naddyschen_____Naddyschen____true_____20_____2.2_____false_____true_____32'.
+
+item_additions.cfg 'foods' #173: Couldn't find potion effect 'potioncore:trueshot'
+
+item_additions.cfg 'foods' #185: Couldn't find potion effect 'potioncore:trueshot'
+
+item_additions.cfg 'foods' #209: Entry had wrong number of parts: '23-2400-1-1.0-normal6-150-1-1.0-normal'.
+
+item_additions.cfg 'thrown' #15: Entry had wrong number of parts: '﻿'.
+
+item_additions.cfg 'thrown' #103: Entry had wrong number of parts: '﻿'.
+
+item_additions.cfg 'guns' #6: Entry had wrong number of parts (better check those underscores): 'kaputte_eier_gun_pulling_1____Rundewurf stern gun(OP edition)_____100000_____100.0_____1_____1_____10000_____minecraft:diamond_____0_____lootplusplus:benx.megakrasser_snowball_____lootplusplus:benx.megakrasser_snowball'.
+
+item_additions.cfg 'guns' #7: Entry had wrong number of parts (better check those underscores): 'kaputte_eier_gun_pulling_1____Rundewurf stern gun(OP edition)_____100000_____100.0_____1_____1_____10000_____minecraft:diamond_____0_____lootplusplus:benx.medium_snowball_____lootplusplus:benx.medium_snowball'.
+
+item_additions.cfg 'guns' #8: Entry had wrong number of parts (better check those underscores): 'kaputte_eier_gun_pulling_1____Rundewurf stern gun(OP edition)_____100000_____100.0_____1_____1_____10000_____minecraft:diamond_____0_____lootplusplus:benx.snowball_____lootplusplus:benx.snowball'.
+
+item_additions.cfg 'add_materials' #49: Entry had wrong number of parts: '200-200-200'.
+
+item_additions.cfg 'swords' #40: The following block or item doesn't seem to exist: 'lootplusplus:palladium'.
+
+item_additions.cfg 'swords' #97: Entry had wrong number of parts: ' '.
+
+item_additions.cfg 'swords' #102: Entry had wrong number of parts: '  '.
+
+item_additions.cfg 'swords' #103: Entry had wrong number of parts: '  '.
+
+item_additions.cfg 'swords' #104: Entry had wrong number of parts: ' '.
+
+item_additions.cfg 'swords' #151: The following block or item doesn't seem to exist: 'lootplusplus:ruby'.
+
+item_additions.cfg 'helmets' #56: The item material 'lootplusplus:germany.200_material' doesn't exist. Did you add it to the add_materials section?
+
+item_additions.cfg 'chestplates' #62: The item material 'lootplusplus:germany.200_material' doesn't exist. Did you add it to the add_materials section?
+
+item_additions.cfg 'leggings' #54: The item material 'lootplusplus:germany.200_material' doesn't exist. Did you add it to the add_materials section?
+
+item_additions.cfg 'boots' #59: The item material 'lootplusplus:germany.200_material' doesn't exist. Did you add it to the add_materials section?
+
+item_additions.cfg 'boots' #60: The following block or item doesn't seem to exist: 'lootplusplus:material_god_cookie'.
+
+general.cfg 'creative_menu_additions' #133: The following block or item doesn't seem to exist: 'lootplusplus:candy_melonsunglasses'.
+
+general.cfg 'creative_menu_additions' #134: The following block or item doesn't seem to exist: 'lootplusplus:candy_Genesis_tshirt'.
+
+general.cfg 'creative_menu_additions' #135: The following block or item doesn't seem to exist: 'lootplusplus:candy_70_tshirt'.
+
+general.cfg 'creative_menu_additions' #136: The following block or item doesn't seem to exist: 'lootplusplus:candy_3_tshirt'.
+
+general.cfg 'creative_menu_additions' #137: The following block or item doesn't seem to exist: 'lootplusplus:candy_44_tshirt'.
+
+general.cfg 'creative_menu_additions' #138: The following block or item doesn't seem to exist: 'lootplusplus:candy_inet_tshirt'.
+
+general.cfg 'creative_menu_additions' #532: The following block or item doesn't seem to exist: 'lootplusplus:doctor.doctor_helmet'.
+
+general.cfg 'creative_menu_additions' #546: The following block or item doesn't seem to exist: 'lootplusplus:vergammeltes.geiles'.
+
+general.cfg 'creative_menu_additions' #547: The following block or item doesn't seem to exist: 'lootplusplus:benx.bunterstein_block'.
+
+general.cfg 'creative_menu_additions' #548: The following block or item doesn't seem to exist: 'lootplusplus:einhorn.gem_block'.
+
+general.cfg 'creative_menu_additions' #550: The following block or item doesn't seem to exist: 'lootplusplus:abc_apple'.
+
+general.cfg 'creative_menu_additions' #551: The following block or item doesn't seem to exist: 'lootplusplus:enchanted_book.fliegen'.
+
+general.cfg 'creative_menu_additions' #553: The following block or item doesn't seem to exist: 'lootplusplus:black_chestplate'.
+
+general.cfg 'creative_menu_additions' #554: The following block or item doesn't seem to exist: 'lootplusplus:doctorbenx_lucky_potion'.
+
+general.cfg 'creative_menu_additions' #555: The following block or item doesn't seem to exist: 'lootplusplus:doctorbenx_lucky_sword'.
+
+general.cfg 'creative_menu_additions' #558: The following block or item doesn't seem to exist: 'lucky:lucky_block_cookie'.
+
+general.cfg 'creative_menu_additions' #562: The following block or item doesn't seem to exist: 'lootplusplus:cookie_bow'.
+
+general.cfg 'creative_menu_additions' #600: The following block or item doesn't seem to exist: 'lootplusplus:Fire_cookie'.
+
+general.cfg 'creative_menu_additions' #678: The following block or item doesn't seem to exist: 'lucky:ghost_shade_sword'.
+
+general.cfg 'creative_menu_additions' #958: Entry had wrong number of parts: ' '.
+
+general.cfg 'creative_menu_additions' #1895: Problem while loading one of these numbers: _0
+
+general.cfg 'creative_menu_additions' #1963: The following block or item doesn't seem to exist: 'lootplusplus:timemachine.neon_gem'.
+
+general.cfg 'creative_menu_additions' #1998: The following block or item doesn't seem to exist: 'lootplusplus:amethystaxe'.
+
+general.cfg 'creative_menu_additions' #2007: The following block or item doesn't seem to exist: 'lootplusplus:rubysword'.
+
+general.cfg 'creative_menu_additions' #2012: The following block or item doesn't seem to exist: 'lootplusplus:engelstatue'.
+
+general.cfg 'creative_menu_additions' #2021: The following block or item doesn't seem to exist: 'lootplusplus:dean'.
+
+general.cfg 'creative_menu_additions' #2022: The following block or item doesn't seem to exist: 'lootplusplus:sam'.
+
+chest_content.cfg 'custom_chest_type' #24: Entry had wrong number of parts: '﻿# Awesome Stuff'.
+
+chest_content.cfg 'custom_chest_type' #30: Problem while loading one of these numbers: 1, 2, 5 , 0
+
+chest_content.cfg 'custom_chest_type' #31: The following block or item doesn't seem to exist: 'lucky:lucky_block_invisible'.
+
+chest_content.cfg 'custom_chest_type' #33: The following block or item doesn't seem to exist: 'lucky:lucky_block_invisible'.
+
+chest_content.cfg 'custom_chest_type' #35: The following block or item doesn't seem to exist: 'lucky:invisible_lucky_potion'.
+
+chest_content.cfg 'custom_chest_type' #37: The following block or item doesn't seem to exist: 'lucky:invisible_lucky_potion'.
+
+chest_content.cfg 'custom_chest_type' #44: The following block or item doesn't seem to exist: 'lootplusplus:Strength_Cookie'.
+
+chest_content.cfg 'custom_chest_type' #45: The following block or item doesn't seem to exist: 'lootplusplus:Resistance_Cookie'.
+
+chest_content.cfg 'custom_chest_type' #46: The following block or item doesn't seem to exist: 'lootplusplus:Regen_Cookie'.
+
+chest_content.cfg 'custom_chest_type' #47: The following block or item doesn't seem to exist: 'lootplusplus:Extra_Cookie'.
+
+chest_content.cfg 'custom_chest_type' #53: The following block or item doesn't seem to exist: 'lootplusplus:Classic_Slicer'.
+
+chest_content.cfg 'custom_chest_type' #54: The following block or item doesn't seem to exist: 'lootplusplus:Poison_Slicer'.
+
+chest_content.cfg 'custom_chest_type' #55: The following block or item doesn't seem to exist: 'lootplusplus:Blind_Slicer'.
+
+chest_content.cfg 'custom_chest_type' #56: The following block or item doesn't seem to exist: 'lootplusplus:Wither_Slicer'.
+
+chest_content.cfg 'custom_chest_type' #57: The following block or item doesn't seem to exist: 'lootplusplus:Rust_Slicer'.
+
+chest_content.cfg 'custom_chest_type' #58: The following block or item doesn't seem to exist: 'lootplusplus:Curse_Slicer'.
+
+chest_content.cfg 'custom_chest_type' #59: The following block or item doesn't seem to exist: 'lootplusplus:Invis_Sword'.
+
+chest_content.cfg 'custom_chest_type' #67: The following block or item doesn't seem to exist: 'lucky:invisible_lucky_bow'.
+
+chest_content.cfg 'custom_chest_type' #68: The following block or item doesn't seem to exist: 'lootplusplus:Invis_Bow'.
+
+block_drops.cfg 'adding' #481: The following block or item doesn't seem to exist: 'lucky:benx.mega_axe'.
+
+block_drops.cfg 'adding' #761: The following block or item doesn't seem to exist: 'lucky_block_doctorbenx'.
+
+block_drops.cfg 'adding' #771: The following block or item doesn't seem to exist: 'lucky_block_awesomeelina'.
+
+block_drops.cfg 'adding' #781: The following block or item doesn't seem to exist: 'lucky_block_doenerroeschen'.
+
+block_drops.cfg 'adding' #791: The following block or item doesn't seem to exist: 'lucky_block_randymc'.
+
+block_drops.cfg 'adding' #801: The following block or item doesn't seem to exist: 'lucky_block_ananas'.
+
+block_drops.cfg 'adding' #811: The following block or item doesn't seem to exist: 'lucky_block_astral'.
+
+recipes.cfg 'removing' #2: The following block or item doesn't seem to exist: 'lootplusplus:bixbite_sword'.
+
+recipes.cfg 'removing' #2: The following block or item doesn't seem to exist: 'b'.
+
+recipes.cfg 'removing' #2: The following block or item doesn't seem to exist: 's'.
+
+recipes.cfg 'removing' #3: The following block or item doesn't seem to exist: 'lootplusplus:tanzinite_sword'.
+
+recipes.cfg 'removing' #3: The following block or item doesn't seem to exist: 'b'.
+
+recipes.cfg 'removing' #3: The following block or item doesn't seem to exist: 's'.
+
+recipes.cfg 'removing' #4: The following block or item doesn't seem to exist: 'lootplusplus:red_diamond_sword'.
+
+recipes.cfg 'removing' #4: The following block or item doesn't seem to exist: 'b'.
+
+recipes.cfg 'removing' #4: The following block or item doesn't seem to exist: 's'.
+
+recipes.cfg 'add_shaped' #2: Entry had wrong number of parts: '﻿'.
+
+recipes.cfg 'add_shaped' #10: The following block or item doesn't seem to exist: 'lootplusplus:candy_Melon_bow'.
+
+recipes.cfg 'add_shaped' #51: Entry had wrong number of parts: '﻿'.
+
+recipes.cfg 'add_shaped' #305: The following block or item doesn't seem to exist: 'lootplusplus:doctor.doctor_helmet'.
+
+recipes.cfg 'add_shaped' #335: The following block or item doesn't seem to exist: 'lootplusplus:germany.200_helmet'.
+
+recipes.cfg 'add_shaped' #336: The following block or item doesn't seem to exist: 'lootplusplus:germany.200_chestplate'.
+
+recipes.cfg 'add_shaped' #337: The following block or item doesn't seem to exist: 'lootplusplus:germany.200_leggings'.
+
+recipes.cfg 'add_shaped' #338: The following block or item doesn't seem to exist: 'lootplusplus:germany.200_boots'.
+
+recipes.cfg 'add_shaped' #409: The following block or item doesn't seem to exist: 'ghost_shade_material'.
+
+recipes.cfg 'add_shaped' #410: The following block or item doesn't seem to exist: 'ghost_shade_material'.
+
+recipes.cfg 'add_shaped' #411: The following block or item doesn't seem to exist: 'ghost_shade_material'.
+
+recipes.cfg 'add_shaped' #412: The following block or item doesn't seem to exist: 'ghost_shade_material'.
+
+recipes.cfg 'add_shaped' #413: The following block or item doesn't seem to exist: 'ghost_shade_material'.
+
+recipes.cfg 'add_shaped' #414: The following block or item doesn't seem to exist: 'ghost_shade_material'.
+
+recipes.cfg 'add_shaped' #415: The following block or item doesn't seem to exist: 'minecraft:dimaond'.
+
+recipes.cfg 'add_shaped' #730: =( Unexpected problem 'Invalid shaped ore recipe: ggg, q, q, q, minecraft:quartz_block, g, lootplusplus:timemachine.gigagem, 1xitem.timemachine.giga_pickaxe@0' while adding a shaped recipe: 'lootplusplus:timemachine.giga_pickaxe_____1_____0_____{}_____ggg,q,q_____g_____"lootplusplus:timemachine.gigagem"_____0_____{}_____q_____"minecraft:quartz_block"_____0_____{}'.
+
+recipes.cfg 'add_shaped' #731: =( Unexpected problem 'Invalid shaped ore recipe: gg, gq, q, q, minecraft:quartz_block, g, lootplusplus:timemachine.gigagem, 1xitem.timemachine.giga_axe@0' while adding a shaped recipe: 'lootplusplus:timemachine.giga_axe_____1_____0_____{}_____gg,gq,q_____g_____"lootplusplus:timemachine.gigagem"_____0_____{}_____q_____"minecraft:quartz_block"_____0_____{}'.
+
+recipes.cfg 'add_shaped' #815: =( Unexpected problem 'Invalid shaped ore recipe: c,  c, c, 1xitem.plural.gem2@0, 4xitem.plural.stick@0' while adding a shaped recipe: 'lootplusplus:plural.stick_____4_____0_____{}_____c, c_____c_____lootplusplus:plural.gem2_____0_____{}'.
+
+recipes.cfg 'add_shapeless' #45: The following block or item doesn't seem to exist: '0'.
+
+recipes.cfg 'add_shapeless' #46: The following block or item doesn't seem to exist: '0'.
+
+recipes.cfg 'add_shapeless' #56: The following block or item doesn't seem to exist: '0'.
+
+recipes.cfg 'add_shapeless' #98: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #99: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #100: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #101: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #102: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #103: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #104: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #105: The following block or item doesn't seem to exist: 'c'.
+
+recipes.cfg 'add_shapeless' #106: The following block or item doesn't seem to exist: 'c'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #2: The following block or item doesn't seem to exist: 'lootplusplus:melonenschwert'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #5: The following block or item doesn't seem to exist: 'lootplusplus:melonenschwert'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #8: The following block or item doesn't seem to exist: 'lootplusplus:melonenschwert'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #11: The following block or item doesn't seem to exist: 'lootplusplus:melonensperr'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #13: The following block or item doesn't seem to exist: 'lootplusplus:melonensperr'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #16: The following block or item doesn't seem to exist: 'lootplusplus:melonensperr'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #19: The following block or item doesn't seem to exist: 'lootplusplus:Modblade'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #23: The following block or item doesn't seem to exist: 'lootplusplus:Revolution'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #27: The following block or item doesn't seem to exist: 'lootplusplus:Arrival'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #31: The following block or item doesn't seem to exist: 'lootplusplus:Genesis'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #35: The following block or item doesn't seem to exist: 'lootplusplus:Utopia'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #39: The following block or item doesn't seem to exist: 'lootplusplus:Genaration'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #80: Couldn't find potion effect 'potioncore:potioncore:rust'
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #81: Couldn't find potion effect 'potioncore:potioncore:perplexity'
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #1: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.bloody_scythe'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #2: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.peridot_sword'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #3: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.cursed_infiltrator'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #4: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.spectrum'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #5: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Wearing Armor' #6: The following block or item doesn't seem to exist: 'lootplusplus:Melon_helmet'.
+
+item_effects.cfg 'Wearing Armor' #7: The following block or item doesn't seem to exist: 'lootplusplus:Melon_helmet'.
+
+item_effects.cfg 'Wearing Armor' #8: The following block or item doesn't seem to exist: 'lootplusplus:Melon_helmet'.
+
+item_effects.cfg 'Wearing Armor' #9: The following block or item doesn't seem to exist: 'lootplusplus:Melon_helmet'.
+
+item_effects.cfg 'Wearing Armor' #10: The following block or item doesn't seem to exist: 'lootplusplus:Melon_chestplate'.
+
+item_effects.cfg 'Wearing Armor' #11: The following block or item doesn't seem to exist: 'lootplusplus:Melon_chestplate'.
+
+item_effects.cfg 'Wearing Armor' #12: The following block or item doesn't seem to exist: 'lootplusplus:Melon_chestplate'.
+
+item_effects.cfg 'Wearing Armor' #13: The following block or item doesn't seem to exist: 'lootplusplus:Melon_leggings'.
+
+item_effects.cfg 'Wearing Armor' #14: The following block or item doesn't seem to exist: 'lootplusplus:Melon_leggings'.
+
+item_effects.cfg 'Wearing Armor' #15: The following block or item doesn't seem to exist: 'lootplusplus:Melon_leggings'.
+
+item_effects.cfg 'Wearing Armor' #16: The following block or item doesn't seem to exist: 'lootplusplus:Melon_Boots'.
+
+item_effects.cfg 'Wearing Armor' #17: The following block or item doesn't seem to exist: 'lootplusplus:Melon_Boots'.
+
+item_effects.cfg 'Wearing Armor' #18: The following block or item doesn't seem to exist: 'lootplusplus:Melon_Boots'.
+
+item_effects.cfg 'Wearing Armor' #19: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #20: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #21: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #22: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #23: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #24: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #25: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #26: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #27: The following block or item doesn't seem to exist: 'lootplusplus:44_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #28: The following block or item doesn't seem to exist: 'lootplusplus:44_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #29: The following block or item doesn't seem to exist: 'lootplusplus:44_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #30: The following block or item doesn't seem to exist: 'lootplusplus:44_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #31: The following block or item doesn't seem to exist: 'lootplusplus:Genesis_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #32: The following block or item doesn't seem to exist: 'lootplusplus:3_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #33: The following block or item doesn't seem to exist: 'lootplusplus:inet_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #34: The following block or item doesn't seem to exist: 'lootplusplus:inet_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #35: The following block or item doesn't seem to exist: 'lootplusplus:70_tshirt'.
+
+item_effects.cfg 'Wearing Armor' #50: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:flight 1 0 true'.
+
+item_effects.cfg 'Wearing Armor' #51: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:archery 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #52: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:cure 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #53: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:stepup 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #54: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:repair 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #55: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:reach 5 5 true'.
+
+item_effects.cfg 'Wearing Armor' #56: Entry had wrong number of parts: 'lootplusplus:glite.glitechestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:solidcore 5 5 true'.
+
+item_effects.cfg 'Wearing Armor' #213: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #214: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #215: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #216: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #217: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #218: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #219: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #220: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #221: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #222: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #223: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #227: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #228: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #229: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #230: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #231: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #232: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #254: Entry had wrong number of parts (better check those underscores): 'lootplusplus:cyborg_Chestplate_____-1_____{}_____minecraft:regeneration____2_____2_____1.0_____none'.
+
+item_effects.cfg 'Wearing Armor' #260: Entry had wrong number of parts (better check those underscores): 'lootplusplus:cyborg_helmet_____-1_____{}_____minecraft:speed____2_____2_____1.0_____none'.
+
+item_effects.cfg 'Wearing Armor' #322: The following block or item doesn't seem to exist: 'lootplusplus:plural.crazyboots'.
+
+item_effects.cfg 'Wearing Armor' #323: The following block or item doesn't seem to exist: 'lootplusplus:plural.airboots'.
+
+item_effects.cfg 'Wearing Armor' #324: The following block or item doesn't seem to exist: 'lootplusplus:plural.hermesboots'.
+
+item_effects.cfg 'Wearing Armor' #325: Problem while loading one of these numbers: -1, 2, 0.5, 1.0
+
+item_effects.cfg 'Wearing Armor' #325: The following block or item doesn't seem to exist: 'lootplusplus:plural.hermesboots'.
+
+item_effects.cfg 'Wearing Armor' #326: The following block or item doesn't seem to exist: 'lootplusplus:plural.roketboots'.
+
+item_effects.cfg 'Wearing Armor' #327: The following block or item doesn't seem to exist: 'lootplusplus:plural.hermesboots'.
+
+item_effects.cfg 'Wearing Armor' #331: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:flight 1 0 true'.
+
+item_effects.cfg 'Wearing Armor' #332: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:archery 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #333: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:cure 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #334: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:stepup 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #335: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:repair 1 1 true'.
+
+item_effects.cfg 'Wearing Armor' #336: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:reach 5 5 true'.
+
+item_effects.cfg 'Wearing Armor' #337: Entry had wrong number of parts: 'lootplusplus:plural.pluralchestplates_____-1_____{}_____1.0_____effect @p[r=0] potioncore:solidcore 5 5 true'.
+
+item_effects.cfg 'Wearing Armor' #347: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #348: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #349: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #350: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #351: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #352: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #353: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #354: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #355: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #356: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #357: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #358: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #359: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #360: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #361: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'Wearing Armor' #362: Problem while loading NBT: 'Unbalanced square brackets []: {]' for '{]'.
+
+item_effects.cfg 'In Inventory' #1: The following block or item doesn't seem to exist: 'lootplusplus:Melon_Shard'.
+
+item_effects.cfg 'In Inventory' #14: The following block or item doesn't seem to exist: 'lootplusplus:enchanted_book.fliegen'.
+
+item_effects.cfg 'In Inventory' #17: Couldn't find potion effect 'minecraft:health'
+
+item_effects.cfg 'In Inventory' #47: Couldn't find potion effect 'potioncore:diamond skin'
+
+item_effects.cfg 'In Inventory' #53: Couldn't find potion effect 'potioncore:iron skin'
+
+item_effects.cfg 'In Inventory' #55: Couldn't find potion effect 'potioncore:magic shielding'
+
+item_effects.cfg 'In Inventory' #57: Couldn't find potion effect 'potioncore:solid core'
+
+item_effects.cfg 'In Inventory' #59: Couldn't find potion effect 'potioncore:step up'
+
+item_effects.cfg 'In Inventory' #61: Couldn't find potion effect 'potioncore:climbing'
+
+item_effects.cfg 'In Inventory' #65: Couldn't find potion effect 'potioncore:magic focus'
+
+item_effects.cfg 'In Inventory' #69: Couldn't find potion effect 'potioncore:combustion'
+
+item_effects.cfg 'In Inventory' #71: Couldn't find potion effect 'potioncore:potion sickness'
+
+item_effects.cfg 'In Inventory' #86: The following block or item doesn't seem to exist: 'lootplusplus:dean'.
+
+item_effects.cfg 'In Inventory' #88: The following block or item doesn't seem to exist: 'lootplusplus:dean'.
+
+item_effects.cfg 'In Inventory' #91: Entry had wrong number of parts (better check those underscores): 'lootplusplus:sam_____1_____{}_____minecraft:speed____10_____10_____10.0_____none'.
+
+item_effects.cfg 'In Inventory' #93: The following block or item doesn't seem to exist: 'lootplusplus:sam'.
+
+item_effects.cfg 'Held' #3: The following block or item doesn't seem to exist: 'lootplusplus:Utopia'.
+
+item_effects.cfg 'Held' #4: The following block or item doesn't seem to exist: 'lootplusplus:Utopia'.
+
+item_effects.cfg 'Held' #5: The following block or item doesn't seem to exist: 'lootplusplus:Utopia'.
+
+item_effects.cfg 'Held' #6: The following block or item doesn't seem to exist: 'lootplusplus:Utopia'.
+
+item_effects.cfg 'Held' #7: The following block or item doesn't seem to exist: 'lootplusplus:Genesis'.
+
+item_effects.cfg 'Held' #8: The following block or item doesn't seem to exist: 'lootplusplus:Genesis'.
+
+item_effects.cfg 'Held' #9: The following block or item doesn't seem to exist: 'lootplusplus:Genesis'.
+
+item_effects.cfg 'Held' #10: The following block or item doesn't seem to exist: 'lootplusplus:Genesis'.
+
+item_effects.cfg 'Held' #11: The following block or item doesn't seem to exist: 'lootplusplus:Arrival'.
+
+item_effects.cfg 'Held' #12: The following block or item doesn't seem to exist: 'lootplusplus:Arrival'.
+
+item_effects.cfg 'Held' #13: The following block or item doesn't seem to exist: 'lootplusplus:Arrival'.
+
+item_effects.cfg 'Held' #14: The following block or item doesn't seem to exist: 'lootplusplus:Arrival'.
+
+item_effects.cfg 'Held' #15: The following block or item doesn't seem to exist: 'lootplusplus:Revolution'.
+
+item_effects.cfg 'Held' #16: The following block or item doesn't seem to exist: 'lootplusplus:Revolution'.
+
+item_effects.cfg 'Held' #17: The following block or item doesn't seem to exist: 'lootplusplus:Revolution'.
+
+item_effects.cfg 'Held' #18: The following block or item doesn't seem to exist: 'lootplusplus:Revolution'.
+
+item_effects.cfg 'Held' #19: The following block or item doesn't seem to exist: 'lootplusplus:Modblade'.
+
+item_effects.cfg 'Held' #20: The following block or item doesn't seem to exist: 'lootplusplus:Modblade'.
+
+item_effects.cfg 'Held' #21: The following block or item doesn't seem to exist: 'lootplusplus:Modblade'.
+
+item_effects.cfg 'Held' #22: The following block or item doesn't seem to exist: 'lootplusplus:Modblade'.
+
+item_effects.cfg 'Held' #23: The following block or item doesn't seem to exist: 'lootplusplus:Genaration'.
+
+item_effects.cfg 'Held' #24: The following block or item doesn't seem to exist: 'lootplusplus:Genaration'.
+
+item_effects.cfg 'Held' #25: The following block or item doesn't seem to exist: 'lootplusplus:Genaration'.
+
+item_effects.cfg 'Held' #26: The following block or item doesn't seem to exist: 'lootplusplus:Genaration'.
+
+item_effects.cfg 'Held' #27: The following block or item doesn't seem to exist: 'lootplusplus:modbow'.
+
+item_effects.cfg 'Held' #28: Couldn't find potion effect 'lootplusplus:trueshot'
+
+item_effects.cfg 'Held' #29: The following block or item doesn't seem to exist: 'lootplusplus:melonenschwert'.
+
+item_effects.cfg 'Held' #30: The following block or item doesn't seem to exist: 'lootplusplus:melonensperr'.
+
+item_effects.cfg 'Held' #31: The following block or item doesn't seem to exist: 'lootplusplus:melonensperr'.
+
+item_effects.cfg 'Held' #32: The following block or item doesn't seem to exist: 'lootplusplus:melonenschwert'.
+
+item_effects.cfg 'Held' #33: The following block or item doesn't seem to exist: 'lootplusplus:melonenschwert'.
+
+item_effects.cfg 'Held' #34: The following block or item doesn't seem to exist: 'lootplusplus:melonensperr'.
+
+item_effects.cfg 'Held' #69: Problem while loading one of these numbers: -1, 2, 0.5, 1.0
+
+item_effects.cfg 'Held' #114: Problem while loading one of these numbers: -1, 2, 0.5, 1.0
+
+item_effects.cfg 'Standing On Block' #6: The following block or item doesn't seem to exist: 'lootplusplus:Hard_fire'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #10: Entry had wrong number of parts: 'lootplusplus:Hand_____-1_____{}_____1.0_____'.
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #28: Problem while loading one of these numbers: -1, potioncore:explode
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #29: Problem while loading one of these numbers: -1, potioncore:broken armor
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #30: Problem while loading one of these numbers: -1, potioncore:curse
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #31: Problem while loading one of these numbers: -1, potioncore:dispel
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #32: Problem while loading one of these numbers: -1, potioncore:inversion
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #33: Problem while loading one of these numbers: -1, minecraft:wither
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #34: Problem while loading one of these numbers: -1, potioncore:potion sickness
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #35: Problem while loading one of these numbers: -1, minecraft:blindness
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #36: Problem while loading one of these numbers: -1, potioncore:drowning
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #37: Problem while loading one of these numbers: -1, potioncore:weight
+
+item_effects.cfg 'Hitting Entity (Give to Entity)' #38: Problem while loading one of these numbers: -1, potioncore:perplexity
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #1: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #2: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #3: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #4: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #5: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #6: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #7: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.massacre'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #8: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.final'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #9: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.final'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #10: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.final'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #11: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.final'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #12: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.final'.
+
+item_effects.cfg 'Hitting Entity (Give to Yourself)' #13: The following block or item doesn't seem to exist: 'lootplusplus:fantasia.final'.
+
+item_effects.cfg 'Wearing Armor' #29: The following block or item doesn't seem to exist: 'lootplusplus:Melon_chestplate'.
+
+item_effects.cfg 'Wearing Armor' #30: The following block or item doesn't seem to exist: 'lootplusplus:Melon_chestplate'.
+
+item_effects.cfg 'Wearing Armor' #31: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #32: The following block or item doesn't seem to exist: 'lootplusplus:Flos_Diebesmaske'.
+
+item_effects.cfg 'Wearing Armor' #1208: The following block or item doesn't seem to exist: 'lootplusplus:engelsfl�gel.jo'.
+
+item_effects.cfg 'Wearing Armor' #1209: The following block or item doesn't seem to exist: 'lootplusplus:engelsfl�gel.jo'.
+
+item_effects.cfg 'In Inventory' #8: Entry had wrong number of parts: 'lootplusplus:galaxy.galaxy_sword_____-1_____{}_____minecraft:regeneration_10_2_1.0_none'.
+
+item_effects.cfg 'In Inventory' #9: Entry had wrong number of parts: 'lootplusplus:galaxy.galaxy_sword_____-1_____{}_____minecraft:health_boost_10_3_1.0_none'.
+
+item_effects.cfg 'In Inventory' #16: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'In Inventory' #17: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'In Inventory' #18: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'In Inventory' #19: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'In Inventory' #20: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'In Inventory' #21: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'In Inventory' #22: The following block or item doesn't seem to exist: 'lootplusplus:plural.hard_drive'.
+
+item_effects.cfg 'Held' #3: The following block or item doesn't seem to exist: 'lootplusplus:Invis_Sword'.
+
+item_effects.cfg 'Held' #4: The following block or item doesn't seem to exist: 'lootplusplus:Invis_Cannon'.
+
+item_effects.cfg 'Held' #52: The following block or item doesn't seem to exist: 'lootplusplus:benx.op'.
+
+item_effects.cfg 'Held' #53: The following block or item doesn't seem to exist: 'lootplusplus:benx.op'.
+
+item_effects.cfg 'Held' #56: The following block or item doesn't seem to exist: 'lootplusplus:benx.god'.
+
+item_effects.cfg 'Held' #57: The following block or item doesn't seem to exist: 'lootplusplus:benx.god'.
+
+item_effects.cfg 'Held' #1036: The following block or item doesn't seem to exist: 'lootplusplus:plural.cannon_bazooka'.
+

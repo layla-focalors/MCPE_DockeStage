@@ -1,0 +1,50 @@
+shade_sword_____The shade Sword_____lootplusplus:shade_material_____0.0
+
+alpha_sword_____Alpha Sword_____lootplusplus:shade_material_____0.0
+
+beta_sword_____Beta Sword_____lootplusplus:shade_material_____0.0
+
+gamma_sword_____Gamma Sword_____lootplusplus:shade_material_____0.0
+
+delta_sword_____Delta Sword_____lootplusplus:shade_material_____0.0
+
+epsilon_sword_____Epsilon Sword_____lootplusplus:shade_material_____0.0
+
+zeta_sword_____Zeta Sword_____lootplusplus:shade_material_____0.0
+
+eta_sword_____Eta Sword_____lootplusplus:shade_material_____0.0
+theta_sword_____Theta Sword_____lootplusplus:shade_material_____0.0
+iota_sword_____Iota Sword_____lootplusplus:shade_material_____0.0
+kappa_sword_____Kappa Sword_____lootplusplus:shade_material_____0.0
+
+lambda_sword_____Lambda Sword_____lootplusplus:shade_material_____0.0
+
+my_sword_____My Sword_____lootplusplus:shade_material_____0.0
+
+ny_sword_____Ny Sword_____lootplusplus:shade_material_____0.0
+
+xi_sword_____Xi Sword_____lootplusplus:shade_material_____0.0
+pi_sword_____Pi Sword_____lootplusplus:shade_material_____0.0
+rho_sword_____Rho Sword_____lootplusplus:shade_material_____0.0
+sigma_sword_____Sigma Sword_____lootplusplus:shade_material_____0.0
+
+tau_sword_____Tau Sword_____lootplusplus:shade_material_____0.0
+ypsilon_sword_____Ypsilon Sword_____lootplusplus:shade_material_____0.0
+phi_sword_____Phi Sword_____lootplusplus:shade_material_____0.0
+chi_sword_____Chi Sword_____lootplusplus:shade_material_____0.0
+
+psi_sword_____Psi Sword_____lootplusplus:shade_material_____0.0
+omega_sword_____Omega Sword_____lootplusplus:shade_material_____0.0
+
+omikron_sword_____Omikron Sword_____lootplusplus:shade_material_____0.0
+
+ghost_shade_sword_____The Ghost Shade Sword_____lootplusplus:ghost_shade_material_____0.0
+
+ 
+invisible_blade_____The Invisible Blade_____lootplusplus:shade_material_____0.0
+
+lasse_sword_____Lasse´s Sword_____lootplusplus:shade_material_____0.0
+
+  
+  
+ 

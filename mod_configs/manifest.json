@@ -1,0 +1,44 @@
+{
+  "minecraft": {
+    "version": "1.8.9",
+    "modLoaders": [
+      {
+        "id": "forge-11.15.1.2318",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Lucky Block 1.8.9 (1)",
+  "version": "1.1",
+  "author": "",
+  "files": [
+    {
+      "projectID": 225608,
+      "fileID": 2275930,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2431977,
+      "required": true
+    },
+    {
+      "projectID": 225810,
+      "fileID": 2292974,
+      "required": true
+    },
+    {
+      "projectID": 242872,
+      "fileID": 2346656,
+      "required": true
+    },
+    {
+      "projectID": 225880,
+      "fileID": 2313594,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

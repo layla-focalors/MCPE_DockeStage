@@ -1,0 +1,96 @@
+## Entity IDs ##
+ArmorStand
+Arrow
+Bat
+Blaze
+Boat
+CaveSpider
+Chicken
+Cow
+Creeper
+EnderCrystal
+EnderDragon
+Enderman
+Endermite
+EntityHorse
+EyeOfEnderSignal
+FallingSand
+Fireball
+FireworksRocketEntity
+Ghast
+Giant
+Guardian
+Item
+ItemFrame
+LavaSlime
+LeashKnot
+LuckyPotion
+LuckyProjectile
+MinecartChest
+MinecartCommandBlock
+MinecartFurnace
+MinecartHopper
+MinecartRideable
+MinecartSpawner
+MinecartTNT
+Mob
+Monster
+MushroomCow
+Ozelot
+Painting
+Pig
+PigZombie
+PrimedTnt
+Rabbit
+Sheep
+Silverfish
+Skeleton
+Slime
+SmallFireball
+SnowMan
+Snowball
+Spider
+Squid
+ThrownEgg
+ThrownEnderpearl
+ThrownExpBottle
+ThrownPotion
+Villager
+VillagerGolem
+Witch
+WitherBoss
+WitherSkull
+Wolf
+XPOrb
+Zombie
+ctrades.CustomVillager
+lootplusplus.ThrownItem
+potioncore.CustomPotion
+## Spawn Egg IDs: in the form <number id> - <entity string id (which it spawns)> ##
+50 - Creeper
+51 - Skeleton
+52 - Spider
+54 - Zombie
+55 - Slime
+56 - Ghast
+57 - PigZombie
+58 - Enderman
+59 - CaveSpider
+60 - Silverfish
+61 - Blaze
+62 - LavaSlime
+65 - Bat
+66 - Witch
+67 - Endermite
+68 - Guardian
+90 - Pig
+91 - Sheep
+92 - Cow
+93 - Chicken
+94 - Squid
+95 - Wolf
+96 - MushroomCow
+98 - Ozelot
+100 - EntityHorse
+101 - Rabbit
+120 - Villager
